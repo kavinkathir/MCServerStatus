@@ -31,4 +31,4 @@ find out yourself by using `help`
 
 Itsdvbravo in discord
 
-Discord (https://dsc.gg/speedync)
+Discord (https://dsc.gg/speedymc
