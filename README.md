@@ -6,7 +6,7 @@ this bot lets you check if your Minecraft server is online or not
 
 Just fill out bot token and prefix in `settings/settings.json`
 
-## Commands
+## Server Status
 
 `addjavaserver`
 `addmcpeserver`
@@ -22,6 +22,13 @@ this command sets the channel where the status should show
 removes a server from list
 
 
+## Levels System
+
+find out yourself by using `help`
+
+
 ### Credits
 
 Itsdvbravo in discord
+
+Discord (https://dsc.gg/speedync)
